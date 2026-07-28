@@ -1,0 +1,7 @@
+C:\Users\harsh\OneDrive\Pictures\Desktop\.NET Practical\PR 2\PR 2\obj\Debug\PR 2.csproj.AssemblyReference.cache
+C:\Users\harsh\OneDrive\Pictures\Desktop\.NET Practical\PR 2\PR 2\obj\Debug\PR 2.csproj.CoreCompileInputs.cache
+C:\Users\harsh\OneDrive\Pictures\Desktop\.NET Practical\PR 2\PR 2\bin\Debug\PR 2.exe.config
+C:\Users\harsh\OneDrive\Pictures\Desktop\.NET Practical\PR 2\PR 2\bin\Debug\PR 2.exe
+C:\Users\harsh\OneDrive\Pictures\Desktop\.NET Practical\PR 2\PR 2\bin\Debug\PR 2.pdb
+C:\Users\harsh\OneDrive\Pictures\Desktop\.NET Practical\PR 2\PR 2\obj\Debug\PR 2.exe
+C:\Users\harsh\OneDrive\Pictures\Desktop\.NET Practical\PR 2\PR 2\obj\Debug\PR 2.pdb
