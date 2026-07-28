@@ -1,0 +1,7 @@
+C:\Users\harsh\OneDrive\Pictures\Desktop\.NET Practical\PR3\PR3\bin\Debug\PR3.exe.config
+C:\Users\harsh\OneDrive\Pictures\Desktop\.NET Practical\PR3\PR3\bin\Debug\PR3.exe
+C:\Users\harsh\OneDrive\Pictures\Desktop\.NET Practical\PR3\PR3\bin\Debug\PR3.pdb
+C:\Users\harsh\OneDrive\Pictures\Desktop\.NET Practical\PR3\PR3\obj\Debug\PR3.csproj.AssemblyReference.cache
+C:\Users\harsh\OneDrive\Pictures\Desktop\.NET Practical\PR3\PR3\obj\Debug\PR3.csproj.CoreCompileInputs.cache
+C:\Users\harsh\OneDrive\Pictures\Desktop\.NET Practical\PR3\PR3\obj\Debug\PR3.exe
+C:\Users\harsh\OneDrive\Pictures\Desktop\.NET Practical\PR3\PR3\obj\Debug\PR3.pdb
